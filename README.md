@@ -1,2 +1,2 @@
-# SPRING_CLOUD_PROJECT
+# SPRING-CLOUD-PROJECT
 spring cloud example
